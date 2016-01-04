@@ -2,6 +2,6 @@
 
 // test app;
 
-$app = function(){
-    // testing
+class Index {
+    
 }
